@@ -27,12 +27,12 @@
 
 ## 🛠 Стек технологий
 <p align="left">
-  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/aiogram-ffffff?style=for-the-badge&logo=telegram&logoColor=black" />
+  <img src="https://img.shields.io/badge/linux-ffffff?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/sqlite-ffffff?style=for-the-badge&logo=sqlite&logoColor=black" />
+  <img src="https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=black" />
 </p>
 
 ## 📊 Моя активность
