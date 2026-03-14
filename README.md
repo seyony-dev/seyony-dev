@@ -4,7 +4,7 @@
 
   <p>Backend Developer | Python Enthusiast | Automation Expert</p>
 
-  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/@seyony"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 ## 👨‍💻 Обо мне
