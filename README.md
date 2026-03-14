@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<hr>
 
 <table align="center" border="0">
   <tr>
@@ -24,6 +25,9 @@
   </tr>
 </table>
 
+<br>
+<hr>
+
 ## 🛠 TECH STACK
 <p align="left">
   <img src="https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=black" />
@@ -33,6 +37,9 @@
   <img src="https://img.shields.io/badge/git-ffffff?style=for-the-badge&logo=git&logoColor=black" />
   <img src="https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=black" />
 </p>
+
+<br>
+<hr>
 
 ## 📊 SYSTEM STATUS
 <p align="center">
