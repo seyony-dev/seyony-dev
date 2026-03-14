@@ -1,8 +1,6 @@
 <div align="center">
   <img src="header.jpg" width="100%" />
 
-  <br>
-
   <a href="https://t.me/seyony"><img src="https://img.shields.io/badge/TELEGRAM-ffffff?style=for-the-badge&logo=telegram&logoColor=black" /></a>
 </div>
 
@@ -19,7 +17,7 @@
       • 🐧 <b>Infrastructure:</b> Linux VPS, Docker, Git
     </td>
     <td width="45%" valign="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3R4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4JmVwPXYxX2ludGVybmFs *_g if _b y _i d &c t =g /q g Q U g g A C 3P f v 687q P C /g i p h y .g i f" width="100%"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3R4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
     </td>
   </tr>
 </table>
