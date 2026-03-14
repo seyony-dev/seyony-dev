@@ -8,7 +8,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
       <h2>👨‍💻 Обо мне</h2>
@@ -36,13 +36,17 @@
 </p>
 
 ## 📊 Моя активность
-<table width="100%">
+<table width="100%" border="0">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=github_dark&hide_border=false&count_private=true" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" width="100%"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=github_dark&hide_border=false&hide=html,css" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_border=true&hide=html,css" width="100%"/>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyony-dev&theme=dark&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+</p>
