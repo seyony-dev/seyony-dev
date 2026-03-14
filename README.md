@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Привет,%20я%20seyony%20👋&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Привет,%20я%20seyony%20👋&fontSize=50&animation=fadeIn" width="100%" />
 
   <p><b>Backend Developer | Python & Telegram Bots | Automation Enthusiast</b></p>
 
-  <a href="https://t.me/seyony"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/seyony"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 <br>
@@ -27,20 +27,16 @@
 
 ## 🛠 Стек технологий
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/aiogram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📊 Моя активность
+## 📊 Моя статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=tokyonight&hide=html,css" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyony-dev&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=github_dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=github_dark&hide=html,css" width="41%" />
 </p>
