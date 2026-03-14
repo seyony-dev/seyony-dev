@@ -1,10 +1,13 @@
 <div align="center">
   <img src="header.jpg" width="100%" />
 
+  <br>
+
   <a href="https://t.me/seyony"><img src="https://img.shields.io/badge/TELEGRAM-ffffff?style=for-the-badge&logo=telegram&logoColor=black" /></a>
 </div>
 
 <br>
+<hr>
 
 <table align="center" border="0">
   <tr>
@@ -17,10 +20,13 @@
       • 🐧 <b>Infrastructure:</b> Linux VPS, Docker, Git
     </td>
     <td width="45%" valign="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z4N3R4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4OHR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+      <img src="file.png" width="100%"/>
     </td>
   </tr>
 </table>
+
+<br>
+<hr>
 
 ## 🛠 TECH STACK
 <p align="left">
@@ -32,18 +38,20 @@
   <img src="https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=black" />
 </p>
 
+<br>
+<hr>
+
 ## 📊 SYSTEM STATUS
 <table width="100%" border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=github_dark&hide_border=false&count_private=true" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_border=true&hide=html,css" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=github_dark&hide_border=false&hide=html,css" width="100%"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyony-dev&theme=dark&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyony-dev&theme=github_dark&hide_border=false" width="10
