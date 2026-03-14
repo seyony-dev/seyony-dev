@@ -35,8 +35,14 @@
   <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 📊 Моя статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=github_dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=github_dark&hide=html,css" width="41%" />
-</p>
+## 📊 Моя активность
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=github_dark&hide_border=false&count_private=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=github_dark&hide_border=false&hide=html,css" width="100%"/>
+    </td>
+  </tr>
+</table>
