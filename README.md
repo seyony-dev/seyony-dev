@@ -38,7 +38,7 @@
 <table width="100%" border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=github_dark&hide_border=false&hide=html,css&cache_seconds=1800" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=seyony-dev&show_icons=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" width="100%"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyony-dev&layout=compact&theme=dark&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_border=true&hide=html,css" width="100%"/>
