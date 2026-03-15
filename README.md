@@ -11,12 +11,12 @@
 <table align="center" border="0">
   <tr>
     <td width="55%" valign="top">
-      <h2>👨‍💻 RELEASE NOTES</h2>
+      <h2>>_ RELEASE NOTES</h2>
       Я занимаюсь разработкой автоматизированных систем на Python и созданием Telegram-ботов. Сейчас основной фокус на крипто-инструментах и алгоритмическом трейдинге в сети TON.
       <br><br>
-      • 🐍 <b>Backend:</b> Python (Asyncio, FastAPI)<br>
-      • 🤖 <b>Automation:</b> aiogram, ccxt, pandas<br>
-      • 🐧 <b>Infrastructure:</b> Linux VPS, Docker, Git
+      • [<b>Backend</b>] Python (Asyncio, FastAPI)<br>
+      • [<b>Automation</b>] aiogram, ccxt, pandas<br>
+      • [<b>Infrastructure</b>] Linux VPS, Docker, Git
     </td>
     <td width="45%" valign="center">
       <img src="file.png" width="100%"/>
